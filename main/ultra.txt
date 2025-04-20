@@ -1,0 +1,1 @@
+{'ver1':'24', 'ver2':'0', 'ver3':'\n•Base 2.25.1.75.\n•Enabled New Features.\n•[VO] تحديث جديد متوفر.\n• [يجب التحديث الان] 100%  Fix Unofficial Login Problem.\n•Extend Expiration date.\n' , 'dli':'https://t.me/VD_AN'}
